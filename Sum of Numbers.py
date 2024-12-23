@@ -1,0 +1,6 @@
+num1=int(input("Enter your number"))
+num2=int(input("Enter your number"))
+print("sum of num1 and num2 is ", num1+num2)
+num1=int(input("Enter your number"))
+num2=int(input("Enter your number"))
+print("sub of num1 and num2 is", num1-num2)
